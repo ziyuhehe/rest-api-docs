@@ -409,6 +409,31 @@ const sidebars = {
                 "common-workflows/analytics/manage-insights/update-insight-status",
               ],
             },
+            {
+              type: "category",
+              label: "Bot APIs",
+              items: [
+                "common-workflows/analytics/use-bot-api/use-bot-api",
+                "common-workflows/analytics/use-bot-api/get-bot-configuration",
+                "common-workflows/analytics/use-bot-api/get-bot-question-list",
+                "common-workflows/analytics/use-bot-api/create-a-bot-instance",
+                "common-workflows/analytics/use-bot-api/ask-bot-instance-suggested-question",
+                "common-workflows/analytics/use-bot-api/ask-bot-instance-question",
+                "common-workflows/analytics/use-bot-api/get-a-bot-question",
+                "common-workflows/analytics/use-bot-api/delete-a-bot-instance",
+              ],
+            },
+            {
+              type: "category",
+              label: "Question with Bot Routing APIs",
+              items: [
+                "common-workflows/analytics/question-with-bot-routing-api/question-api",
+                "common-workflows/analytics/question-with-bot-routing-api/ask-question-to-bots-in-the-application",
+                "common-workflows/analytics/question-with-bot-routing-api/get-question-from-bots-in-the-application",
+                "common-workflows/analytics/question-with-bot-routing-api/get-image-of-answer",
+                "common-workflows/analytics/question-with-bot-routing-api/ask-suggested-question-to-bots-in-the-application",
+              ],
+            },
           ],
         },
         {

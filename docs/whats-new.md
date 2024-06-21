@@ -4,9 +4,15 @@ sidebar_label: What's new
 Description: What's New in the REST API.
 ---
 
-## 2024 Update 3
+## MicroStrategy ONE (June 2024)
+
+- [Question with Bot Routing APIs](common-workflows/analytics/question-with-bot-routing-api/question-api.md). Leverage bot routing to ensure user questions are directed to the most appropriate bot with no need to manually switch bots.
+
+## MicroStrategy ONE (March 2024)
 
 - Rename 'dossier' into 'dashboard'.
+- [Bot APIs](common-workflows/analytics/use-bot-api/use-bot-api.md)
+- Support [FFSQL cube](common-workflows/analytics/manage-datasets/manage-cube-objects/manage-cube-objects.md) and [FFSQL IRR](common-workflows/analytics/manage-reports/manage-incremental-refresh-report/manage-incremental-refresh-report.md).
 
 ## 2021 Update 11
 
